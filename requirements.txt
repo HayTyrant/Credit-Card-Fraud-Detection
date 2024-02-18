@@ -3,3 +3,6 @@ numpy
 streamlit
 scikit-learn
 imblearn
+colorama
+time
+rich
